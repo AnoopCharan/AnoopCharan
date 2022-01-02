@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sai Charan Nakka
-- 👀 I’m interested in Software development
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Back-end, image processing, Machine learning
+- 👀 I’m interested in full stack web development
+- 🌱 I’m currently learning Python, Django, JavaScript
+- 💞️ I’m looking to collaborate on fullstack web development
 - 📫 How to reach me 
 
 <!---
